@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="excited gif" width="35" height="35"/>  Breaking things, fixing bugs, repeat.</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="excited gif" width="25" height="25"/>  Breaking things, fixing bugs, repeat.</h1>
 
 ---
 
